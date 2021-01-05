@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "audiomotion-analyzer": "github:alex-greff/audioMotion-analyzer#55c34c9ffc2a0f5ff2aa9b29cac383a985563d1d",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "color": "^3.1.2",
         "core-js": "^3.6.4",
         "gsap": "^2.1.3",
