@@ -23,7 +23,7 @@
         "express-session": "^1.17.0",
         "peer": "^0.5.1",
         "redis": "^3.0.2",
-        "socket.io": "^2.3.0"
+        "socket.io": "^2.4.0"
     },
     "devDependencies": {
         "@types/cookie-parser": "^1.4.2",
