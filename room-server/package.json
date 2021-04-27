@@ -22,7 +22,7 @@
         "express": "^4.17.1",
         "express-session": "^1.17.0",
         "peer": "^0.5.1",
-        "redis": "^3.0.2",
+        "redis": "^3.1.1",
         "socket.io": "^2.3.0"
     },
     "devDependencies": {
